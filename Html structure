@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive web Development</title>
+    <link rel="stylesheet" href="git.css">
+</head>
+<body>
+    <h1>Web Design</h1>
+    <img src="index.jpg" alt="One Peace"></img>
+    <p>Hello everyone welcome to the beginner class for web design and Development</p><br>
+    <p>Overall in the world of knowledge Everyone is a learner to another Expert don't be astrayed by those who think low of you</p>
+    <footer>Web Design Copyright@2025</footer>
+    
+</body>
+</html>
